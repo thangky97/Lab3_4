@@ -1,0 +1,50 @@
+{
+  "students": [
+    {
+      "name": "Thang1",
+      "class": "Web16304",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Thang1",
+      "class": "Web16304"
+    },
+    {
+      "id": 3,
+      "name": "Thang2",
+      "class": "Web16304"
+    },
+    {
+      "name": "thangtv34",
+      "class": "web16305",
+      "id": 4
+    }
+  ],
+  "posts": [
+    {
+      "title": "1",
+      "content": "1fffff",
+      "status": "1",
+      "id": 1
+    },
+    {
+      "title": "support",
+      "content": "Tối muốn help",
+      "status": 1,
+      "id": 2
+    },
+    {
+      "title": "ssssss",
+      "content": "sssssss",
+      "status": "1",
+      "id": 5
+    },
+    {
+      "title": "sssssssss",
+      "content": "ssssssssss",
+      "status": "0",
+      "id": 6
+    }
+  ]
+}
